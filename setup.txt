@@ -1,6 +1,6 @@
 Setup
 
-1. Write an email to the [chair of information systems](bujarek@hu-berlin.de) asking for the Medium blog posts data sets (and hopefully will be lucky:))
+1. Write an email to the chair of information systems (bujarek@hu-berlin.de) asking for the Medium blog posts data sets (and hopefully will be lucky:))
 
 2. Download pre-trained word vectors: glove.6B.300d.txt from https://nlp.stanford.edu/projects/glove/
 
