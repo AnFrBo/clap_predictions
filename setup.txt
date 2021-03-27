@@ -1,0 +1,22 @@
+Setup
+
+1. Write an email to the [chair of information systems](bujarek@hu-berlin.de) asking for the Medium blog posts data sets (and hopefully will be lucky:))
+
+2. Download pre-trained word vectors: glove.6B.300d.txt from https://nlp.stanford.edu/projects/glove/
+
+
+If you run the code in a jupyter notebook environment:
+
+3a. Install/import all libraries/packages specified in requirements.txt
+
+4a. Set wd to the data folder
+
+
+If you are using colab:
+
+3b. Add data to your google drive
+
+4b. Mount drive and set wd to drive folder
+
+
+5. Run notebook
